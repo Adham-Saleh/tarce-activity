@@ -23,7 +23,7 @@
             </div>
             <div class="col-12 mt-2">
               <span
-                >Studing: CS at Faculty of science, Damietta universty
+                >Studying: CS at Faculty of science, Damietta universty
                 (2022-2026)</span
               >
             </div>
